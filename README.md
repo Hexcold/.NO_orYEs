@@ -1,6 +1,6 @@
 # NO (or YES)!!!
 
-![Cover ](.info/Component%201.svg)
+![Cover ](.assets/Component%201.svg)
 
 ## Infor
 
