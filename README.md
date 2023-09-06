@@ -16,7 +16,8 @@
 ##  Direitos
 <div align="center">
 
-Diretores reservados para @paulo9631 
+Diretores reservados para 
+<a href="https://github.com/paulo9631" target="_blank">paulo9631</a>
 
 Repositório do código original:
 <a href="https://github.com/paulo9631/.no_loop" target="_blank">paulo9631/.no_loop</a>
